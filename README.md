@@ -21,6 +21,7 @@ onde o usuário terá os campos.
 
 2.2- Cadastrar
 
-Ao cadastrar o programa mostra por meio de caixa de mensagem, as informações cadastradas e informa "Cadastro realizado com sucesso".
+Ao clicar no botão cadastrar o programa mostra por meio de caixa de mensagem, as informações cadastradas e informa "Cadastro realizado com sucesso".
+Ao clicar no botão sair o programa abre uma mensagem perguntando se deseja realmente sair.
 
 Para funcionamento rodar o arquivo "main.py"
